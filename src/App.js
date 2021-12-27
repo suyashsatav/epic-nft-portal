@@ -107,7 +107,7 @@ const App = () => {
         	alert("You are not connected to the Rinkeby Test Network!");
           return;
         }
-        
+
         const provider = new ethers.providers.Web3Provider(ethereum);
         const signer = provider.getSigner();
         const connectedContract = new ethers.Contract(CONTRACT_ADDRESS, myEpicNft.abi, signer);
@@ -149,7 +149,7 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header gradient-text">My NFT Collection</p>
+          <p className="header gradient-text">Food NFT Collection</p>
           <p className="sub-text">
             Each unique. Each beautiful. Discover your NFT today.
           </p>
