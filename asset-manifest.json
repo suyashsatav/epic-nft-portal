@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/epic-nft-portal/static/css/main.9cd6ed12.chunk.css",
-    "main.js": "/epic-nft-portal/static/js/main.5d3aa987.chunk.js",
-    "main.js.map": "/epic-nft-portal/static/js/main.5d3aa987.chunk.js.map",
+    "main.js": "/epic-nft-portal/static/js/main.daf48ed1.chunk.js",
+    "main.js.map": "/epic-nft-portal/static/js/main.daf48ed1.chunk.js.map",
     "runtime-main.js": "/epic-nft-portal/static/js/runtime-main.86a36b57.js",
     "runtime-main.js.map": "/epic-nft-portal/static/js/runtime-main.86a36b57.js.map",
     "static/js/2.84bf8293.chunk.js": "/epic-nft-portal/static/js/2.84bf8293.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.86a36b57.js",
     "static/js/2.84bf8293.chunk.js",
     "static/css/main.9cd6ed12.chunk.css",
-    "static/js/main.5d3aa987.chunk.js"
+    "static/js/main.daf48ed1.chunk.js"
   ]
 }
